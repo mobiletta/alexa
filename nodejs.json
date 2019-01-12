@@ -39,36 +39,36 @@
         "gitUrl": "https://github.com/alexa/skill-sample-nodejs-quiz-game.git"
     },
 	"Amazon Pay" : {
-        "gitUrl" : "https://github.com/mobiletta/alexa/skill-sample-nodejs-hello-world.git"
+        "gitUrl" : "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-hello-world.git"
     },
     "Customer Profile": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-buttons-colorchanger.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-buttons-colorchanger.git"
     },
     "Device Location": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-city-guide.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-city-guide.git"
     },
     "Device Settings": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-decision-tree.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-decision-tree.git"
     },
     "Dialog Delegate": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-fact.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-fact.git"
     },
     "Display Directive": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-feed.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-feed.git"
     },
     "Entity Resolution": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-the-foodie.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-the-foodie.git"
     },
     "List Access": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-highlowgame.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-highlowgame.git"
     },
     "List Events": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-howto.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-howto.git"
     },
     "Proactive Events": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-petmatch.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-petmatch.git"
     },
     "Progressive Response": {
-        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-team-lookup.git"
+        "gitUrl": "https://github.com/mobiletta/alexa/templates/skill-sample-nodejs-team-lookup.git"
     }	
 }
