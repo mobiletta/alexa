@@ -1,1 +1,74 @@
-
+{
+    "Hello World" : {
+        "gitUrl" : "https://github.com/alexa/skill-sample-nodejs-hello-world.git"
+    },
+    "Buttons ColorChanger": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-buttons-colorchanger.git"
+    },
+    "City Guide": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-city-guide.git"
+    },
+    "Decision Tree": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-decision-tree.git"
+    },
+    "Fact": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-fact.git"
+    },
+    "Feed": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-feed.git"
+    },
+    "Foodie": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-the-foodie.git"
+    },
+    "High Low Game": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-highlowgame.git"
+    },
+    "How To": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-howto.git"
+    },
+    "Pet Match": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-petmatch.git"
+    },
+    "Team Lookup": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-team-lookup.git"
+    },
+    "Trivia": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-trivia.git"
+    },
+    "Quiz Game": {
+        "gitUrl": "https://github.com/alexa/skill-sample-nodejs-quiz-game.git"
+    },
+	"Amazon Pay" : {
+        "gitUrl" : "https://github.com/mobiletta/alexa/skill-sample-nodejs-hello-world.git"
+    },
+    "Customer Profile": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-buttons-colorchanger.git"
+    },
+    "Device Location": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-city-guide.git"
+    },
+    "Device Settings": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-decision-tree.git"
+    },
+    "Dialog Delegate": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-fact.git"
+    },
+    "Display Directive": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-feed.git"
+    },
+    "Entity Resolution": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-the-foodie.git"
+    },
+    "List Access": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-highlowgame.git"
+    },
+    "List Events": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-howto.git"
+    },
+    "Proactive Events": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-petmatch.git"
+    },
+    "Progressive Response": {
+        "gitUrl": "https://github.com/mobiletta/alexa/skill-sample-nodejs-team-lookup.git"
+    }	
+}
